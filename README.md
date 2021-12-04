@@ -1,2 +1,3 @@
 # CNN_project
- class project creating a convolutional neural network to detect handwritten letters under different noise
+ class project creating a convolutional neural network to detect handwritten letters under different noise types 
+ created in google colab 
