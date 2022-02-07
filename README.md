@@ -1,8 +1,9 @@
 # Understanding the limitations of a Convolutional Neural Network
-**Project Status: Completed ** 
+
+**Project Status: Completed**
 
 ## Table of Contents
-- [Project Objective](#Project Objective)
+- [Project Objective](#ProjectObjective)
 - Methods Used
-<!-- toc -->
-## Project Objective
+
+## ProjectObjective
