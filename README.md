@@ -2,7 +2,7 @@
 **Project Status: Completed ** 
 
 ## Table of Contents
-- [Project Objective](## Project Objective)
+- [Project Objective](#Project Objective)
 - Methods Used
 <!-- toc -->
 ## Project Objective
