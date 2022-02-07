@@ -23,4 +23,4 @@
   * Seaborn
   * Sklearn
 ## Data Source
-- [MNIST Dataset (from Keras packages)](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz)
+- [MNIST Dataset (from tensorflow.keras package)](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz)
