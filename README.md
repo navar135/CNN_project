@@ -21,6 +21,6 @@
   * Numpy
   * Matplotlib
   * Seaborn
-  * Sklearn
+  * Scikit-learn
 ## Data Source
 - [MNIST Dataset (from tensorflow.keras package)](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz)
